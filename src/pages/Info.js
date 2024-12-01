@@ -64,7 +64,7 @@ export default function Info() {
                         </ul>
                     </div>
                 </div>
-                <h1>Målsætning</h1>
+                <h1>Målsætning & Kvalitetskriterier</h1>
                 <div className="App-row">
                     <div className="App-column">
                         <p>JavaScript</p>
@@ -108,7 +108,7 @@ export default function Info() {
                         <p>Målbart</p>
                         <ul>
                             <li>Opnåelse af projektets overordnede mål er målt i dialog med klienten, og er baseret på deres tilfredshed.</li>
-                            <li>For at delmålene er opnåede, skal mikrokontrolleren registrere at man interagerer med den, og staks udsende den rigtige data, baseret på interaktionen.</li>
+                            <li>For at delmålene er opnåede, skal mikrokontrolleren registrere at man interagerer med den, og straks udsende den rigtige data, baseret på interaktionen.</li>
                         </ul>
                         <p>Acceptabelt</p>
                         <ul>
