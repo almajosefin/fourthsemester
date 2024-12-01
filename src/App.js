@@ -17,11 +17,11 @@ function App() {
       </div>
       <div>
         <Routes>
-          <Route path="./" element={<Home/>} />
-          <Route path="./info" element={<Info/>} /> 
-          <Route path="./javascript" element={<JavaScript/>} />
-          <Route path="./embeddedc" element={<EmbeddedC/>} />
-          <Route path="./log" element={<Log/>} />
+          <Route path="/" element={<Home/>} />
+          <Route path="/info" element={<Info/>} /> 
+          <Route path="/javascript" element={<JavaScript/>} />
+          <Route path="/embeddedc" element={<EmbeddedC/>} />
+          <Route path="/log" element={<Log/>} />
         </Routes>
       </div>
     </>
