@@ -135,7 +135,7 @@ export default function Info() {
                             <li>Andersen, Lene(2024):”Projektbaseret læring med individuelle læringsmål”, Articulate 360, 2024, <a href="https://rise.articulate.com/share/KPnM6f3Fl_8JemRWhkrGQTRH50UXESyE#/">rise.articulate.com</a> (tilgået 12/08/2024)</li>
                             <li>Andersen, Lene (2024): “At skrive læringsmål”, Articulate 360, 2024, <a href="https://rise.articulate.com/share/0cqLbVL1QMZ4ZrL6hJlUD1_fj4uMGWP9#/">rise.articulate.com</a> (tilgået 14/10/2024)</li>
                             <li>Aldrigmere.dk: <a href="https://www.aldrigmere.dk/materialer/hjaelpetekster/blooms-taksonomi">aldrigmere.dk/materialer/hjaelpetekster/blooms-taksonomi</a> (tilgået 30/11/2024)</li>
-                            <li></li>
+                            <p></p>
                         </ul>
                         <p>JavaScript</p>
                         <ul>
