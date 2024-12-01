@@ -10,6 +10,8 @@ import EmbeddedC from './pages/EmbeddedC';
 import Log from './pages/Log';
 
 function App() {
+  const token = localStorage.getItem("token");
+
   return (
     <>
       <div>
