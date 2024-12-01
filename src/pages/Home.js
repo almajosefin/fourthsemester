@@ -5,6 +5,8 @@ export default function Home() {
         <div className="App">
             <header>
                 <h1>Velkommen</h1>
+                <p><a href="https://github.com/DatamatikerTeam6/Majussmykkerklient.git">MajusSmykkerCLient</a></p>
+                <p><a href="https://github.com/DatamatikerTeam6/MajusSmykker.git">MajusSmykkerAPI</a></p>
                 <p>Alma Josefin Labrosse</p>
                 <p>Gruppe 6: Maja, Justin & Emre</p>
                 <p>UCL Erhvervsakademi & Professionshøskole</p>
