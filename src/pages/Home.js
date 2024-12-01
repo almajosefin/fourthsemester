@@ -5,14 +5,14 @@ export default function Home() {
         <div className="App">
             <header>
                 <h1>Velkommen</h1>
-                <a>Alma Josefin Labrosse</a>
-                <a>Gruppe 6: Maja, Justin & Emre</a>
-                <a>UCL Erhvervsakademi & Professionshøskole</a>
-                <a>?eksamen?</a>
-                <a>Javascript & Embedded C</a>
-                <a>Fjerde Semester 2024</a>
-                <a>Procesvejleder: Diaa</a>
-                <a>Guildvejleder: Tue</a>
+                <p>Alma Josefin Labrosse</p>
+                <p>Gruppe 6: Maja, Justin & Emre</p>
+                <p>UCL Erhvervsakademi & Professionshøskole</p>
+                <p>?eksamen?</p>
+                <p>Javascript & Embedded C</p>
+                <p>Fjerde Semester 2024</p>
+                <p>Procesvejleder: Diaa</p>
+                <p>Guildvejleder: Tue</p>
             </header>
         </div>
     )
