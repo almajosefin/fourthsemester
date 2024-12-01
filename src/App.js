@@ -13,7 +13,10 @@ function App() {
   const token = localStorage.getItem("token");
   return (
     <div>
+      <div>
         <Navbar/>
+      </div>
+      <div>
         <Routes>
           <Route path="/" element={<Home/>} />
           <Route path="/Info" element={<Info/>} /> 
@@ -21,6 +24,7 @@ function App() {
           <Route path="/EmbeddedC" element={<EmbeddedC/>} />
           <Route path="/Log" element={<Log/>} />
         </Routes>
+      </div>
     </div>
   );
 }
