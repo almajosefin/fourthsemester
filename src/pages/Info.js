@@ -77,66 +77,60 @@ export default function Info() {
                         <p>JavaScript</p>
                         <p>Specifikt</p>
                         <ul>
-                            <li></li>
-                            <li></li>
-                            <li></li>
+                            <li>Målet med projektet er at udvikle en webapplikation, der skal fungere som en digital ordrebog for klienten, der er guldsmed.</li>
+                            <li>Brugeren skal kunne oprette, redigere og slette en kunde i sin digitale ordrebog.</li>
+                            <li>En kunde, i den digitale ordrebog, skal vise vigtige informationer, såsom kontaktoplysninger.</li>
+                            <li>Brugeren skal også kunne oprette en eller flere ordrer knyttet til en kunde, og skal kunne redigere og slette individuelle ordrer.</li>
+                            <li>En ordre skal indeholde afleveringsfrist og detaljer vedrørende produceringen.</li>
                         </ul>
                         <p>Målbart</p>
                         <ul>
-                            <li></li>
-                            <li></li>
-                            <li></li>
+                            <li>Opnåelse af projektets overordnede mål er målt i dialog med klienten, og er baseret på deres tilfredshed.</li>
+                            <li>Delmålene er til gængæld målt på deres konkrete implementering og på fungerende funktionalitet.</li>
                         </ul>
                         <p>Acceptabelt</p>
                         <ul>
-                            <li></li>
-                            <li></li>
-                            <li></li>
+                            <li>Målene kan opnås med hjælp fra Kolbs læringscirkel. Først ved at opsøge viden for at fremme begrebsdannelsen, så ved at udføre aktiviteter og eksperimenter, ud fra den viden, man har tilegnet sig. Det gør man sig erfaringer ud fra, som man kan tage til refleksion og eftertanke.</li>
+                            <li>For hver iteration med Kolbs læringscirkel, kommer vi tættere på at opfylde både læringsmålene og projektets problemstilling.</li>
                         </ul>
                         <p>Realistisk</p>
                         <ul>
-                            <li></li>
-                            <li></li>
-                            <li></li>
+                            <li>Målet med at udvikle en webapplikation skal opnås ved brug af React og JavaScript, og derfor understøtter det læringsmålene relateret til webudvikling.</li>
+                            <li>Delmålene understøtter muligheden for at illustrere og implementere redskaber og metoder i React og JavaScript, som beskrevet i læringsmålene.</li>
                         </ul>
                         <p>Tidsbestemt</p>
                         <ul>
-                            <li></li>
-                            <li></li>
-                            <li></li>
+                            <li>Den digitale ordrebog skal afleveres den 2. december 2024.</li>
+                            <li>Delmålenes frister er opdelte i sprint, som projektlederen faciliterer.</li>
                         </ul>
                     </div>
                     <div className="App-column">
                         <p>Embedded C</p>
                         <p>Specifikt</p>
                         <ul>
-                            <li></li>
-                            <li></li>
-                            <li></li>
+                            <li>Målet med projektet er at udvikle en mikrocontroller, der skal fungere som en kundeundersøgelse for klienten, der er guldsmed.</li>
+                            <li>På vej ud ad døren, skal kunden kunne trykke på et touch display, for at indikere, hvor tilfredse de var med besøget i butikken.</li>
+                            <li>Mikrocontrolleren registrerer interaktionen og udskriver data, der kan samles op af en ekstern entitet.</li>
                         </ul>
                         <p>Målbart</p>
                         <ul>
-                            <li></li>
-                            <li></li>
-                            <li></li>
+                            <li>Opnåelse af projektets overordnede mål er målt i dialog med klienten, og er baseret på deres tilfredshed.</li>
+                            <li>For at delmålene er opnåede, skal mikrokontrolleren registrere at man interagerer med den, og staks udsende den rigtige data, baseret på interaktionen.</li>
                         </ul>
                         <p>Acceptabelt</p>
                         <ul>
-                            <li></li>
-                            <li></li>
-                            <li></li>
+                            <li>Målene kan opnås med hjælp fra Kolbs læringscirkel. Først opsøges viden for at fremme begrebsdannelsen inden for programmering i C og udvikling af embedded systemer. I den forbindelse, bliver der udført nogle aktiviteter i form af tutorials, som Arduino udbyder. Det gør man sig erfaringer ud fra, som man kan tage til refleksion og eftertanke, når projektet skal implementeres.</li>
+                            <li>For hver iteration med Kolbs læringscirkel, kommer vi tættere på at opfylde både læringsmålene og projektets problemstilling.</li>
                         </ul>
                         <p>Realistisk</p>
                         <ul>
-                            <li></li>
-                            <li></li>
-                            <li></li>
+                            <li>Målet med at udvikle en mikrocontroller skal opnås ved brug af Arduino og C, og derfor understøtter det læringsmålene relateret til Embedded C.</li>
+                            <li>Delmålene understøtter muligheden for at illustrere og implementere redskaber og metoder i Arduino og C, som beskrevet i læringsmålene.</li>
                         </ul>
                         <p>Tidsbestemt</p>
                         <ul>
-                            <li></li>
-                            <li></li>
-                            <li></li>
+                            <li>Mikrocontrollerens resultater skal afleveres den 2. december 2024.</li>
+                            <li>Delmålenes frister er opdelte i sprint, der løber asynkront fra webudviklingens sprints.</li>
                         </ul>
                     </div>
                 </div>
