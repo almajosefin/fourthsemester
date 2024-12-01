@@ -11,7 +11,7 @@ import Log from './pages/Log';
 
 function App() {
   return (
-    <div>
+    <>
       <div>
         <Navbar/>
       </div>
@@ -24,7 +24,7 @@ function App() {
           <Route path="/Log" element={<Log/>} />
         </Routes>
       </div>
-    </div>
+    </>
   );
 }
 
