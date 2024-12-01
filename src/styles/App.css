@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+  display: outside;
+  flex-direction: column;
+}
+
+.App header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  font-size: calc(2vmin);
+  color: white;
+  padding-top: 6rem;
+}
+
+.App-row{
+  list-style: none;
+  display: flex;
+  color: white;
+  text-align: left;
+  padding-inline: 2rem;
+}
+
+.App-column{
+  width: 50%;
+  padding-inline: 2rem;
+}
