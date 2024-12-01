@@ -9,20 +9,13 @@ export default function Info() {
                     <div className="App-column">
                         <p>JavaScript</p>
                         <p>
-                        Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
-                        Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.
-                        Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat,
-                        vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.
-                        Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum.
+                        Projektet går ud på, at anvende React og JavaScript til, at udvikle en digital ordrebog, i form af en webapplikation. Klienten, der er guldsmed, ønsker en admin platform, hvor hun kan opbevare oplysninger om hendes kunder og ordrer. Vi skal som en tværfaglig gruppe af studerende uddelegere arbejdsopgaver og mødes om faglig sparring, i udviklingen af produktet. Forneden finder du studierelevante læringsmål  og produktrelaterede kvalitetskriterier.
                         </p>
                     </div>
                     <div className="App-column">
                         <p>Embedded C</p>
                         <p>
-                        Typi non habent claritatem insitam; est usus legentis in iis qui facit eorum claritatem. Investigationes demonstraverunt lectores legere me lius quod ii legunt saepius.
-                        Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum.
-                        Mirum est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit litterarum formas humanitatis per seacula quarta decima et quinta decima.
-                        Eodem modo typi, qui nunc nobis videntur parum clari, fiant sollemnes in futurum.    
+                        Som en del af projektet, ønsker jeg at udvikle en kundeundersøgelse i form af en mikrocontroller, der består af et Arduino Giga R1 WiFi Board og et Arduino Giga Display Shield. På skærmen skal en kunde kunne vælge mellem 1 og 3 stjerner, alt efter deres oplevelse i butikken. Mikrocontrolleren skal kunne registrere, hvilken stjerne der trykkes på, og sende den data videre, så den kan blive opfanget, og eventuelt vist på en side i den digitale ordrebog.
                         </p>
                     </div>
                 </div>
@@ -142,6 +135,7 @@ export default function Info() {
                             <li>Andersen, Lene(2024):”Projektbaseret læring med individuelle læringsmål”, Articulate 360, 2024, <a href="https://rise.articulate.com/share/KPnM6f3Fl_8JemRWhkrGQTRH50UXESyE#/">rise.articulate.com</a> (tilgået 12/08/2024)</li>
                             <li>Andersen, Lene (2024): “At skrive læringsmål”, Articulate 360, 2024, <a href="https://rise.articulate.com/share/0cqLbVL1QMZ4ZrL6hJlUD1_fj4uMGWP9#/">rise.articulate.com</a> (tilgået 14/10/2024)</li>
                             <li>Aldrigmere.dk: <a href="https://www.aldrigmere.dk/materialer/hjaelpetekster/blooms-taksonomi">aldrigmere.dk/materialer/hjaelpetekster/blooms-taksonomi</a> (tilgået 30/11/2024)</li>
+                            <li></li>
                         </ul>
                         <p>JavaScript</p>
                         <ul>
