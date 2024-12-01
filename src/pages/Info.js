@@ -7,13 +7,13 @@ export default function Info() {
                 <h1>Projektbeskrivelse</h1>
                 <div className="App-row">
                     <div className="App-column">
-                        <p>JavaScript</p>
+                        <p>Webudvikling (React & JavaScript)</p>
                         <p>
                         Projektet går ud på, at anvende React og JavaScript til, at udvikle en digital ordrebog, i form af en webapplikation. Klienten, der er guldsmed, ønsker en admin platform, hvor hun kan opbevare oplysninger om hendes kunder og ordrer. Vi skal som en tværfaglig gruppe af studerende uddelegere arbejdsopgaver og mødes om faglig sparring, i udviklingen af produktet. Forneden finder du studierelevante læringsmål  og produktrelaterede kvalitetskriterier.
                         </p>
                     </div>
                     <div className="App-column">
-                        <p>Embedded C</p>
+                        <p>Embedded C (Arduino & C)</p>
                         <p>
                         Som en del af projektet, ønsker jeg at udvikle en kundeundersøgelse i form af en mikrocontroller, der består af et Arduino Giga R1 WiFi Board og et Arduino Giga Display Shield. På skærmen skal en kunde kunne vælge mellem 1 og 3 stjerner, alt efter deres oplevelse i butikken. Mikrocontrolleren skal kunne registrere, hvilken stjerne der trykkes på, og sende den data videre, så den kan blive opfanget, og eventuelt vist på en side i den digitale ordrebog.
                         </p>
