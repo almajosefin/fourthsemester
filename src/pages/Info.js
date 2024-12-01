@@ -64,7 +64,7 @@ export default function Info() {
                         </ul>
                     </div>
                 </div>
-                <h1>Kvalitetskriterier</h1>
+                <h1>Målsætning</h1>
                 <div className="App-row">
                     <div className="App-column">
                         <p>JavaScript</p>
