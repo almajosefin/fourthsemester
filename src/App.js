@@ -18,10 +18,10 @@ function App() {
       <div>
         <Routes>
           <Route path="/" element={<Home/>} />
-          <Route path="/Info" element={<Info/>} /> 
-          <Route path="/JavaScript" element={<JavaScript/>} />
-          <Route path="/EmbeddedC" element={<EmbeddedC/>} />
-          <Route path="/Log" element={<Log/>} />
+          <Route path="/info" element={<Info/>} /> 
+          <Route path="/javascript" element={<JavaScript/>} />
+          <Route path="/embeddedc" element={<EmbeddedC/>} />
+          <Route path="/log" element={<Log/>} />
         </Routes>
       </div>
     </>
