@@ -11,7 +11,7 @@ export default function Navbar() {
                     <li><a href="#/embeddedc">Embedded C</a></li>
                     <li><a href="#/log">Logbog</a></li>   
                 </ul>
-                <p>Alma Josefin Labrosse, Gruppe 6, Datamatiker Online</p>      
+                <p>Alma Josefin Labrosse, Fjerde Semester 2024, Datamatiker Online, UCL</p>      
             </header>
         </div>
     )
