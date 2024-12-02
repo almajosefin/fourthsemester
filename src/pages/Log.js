@@ -234,7 +234,7 @@ export default function Log() {
                         <ul>
                             <li>Få min Arduino til at udskrive et json object, hver gang man trykker på en knap.</li>
                         </ul>
-                        <p>Aktiviteteer</p>
+                        <p>Aktiviteter</p>
                         <ul>
                             <li>Guildmøde med Webudvikling.</li>
                             <li>Guildmøde med Embedded C.</li>
