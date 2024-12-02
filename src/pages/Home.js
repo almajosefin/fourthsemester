@@ -7,10 +7,10 @@ export default function Home() {
                 <h1>Velkommen</h1>
                 <p><a href="https://github.com/DatamatikerTeam6/Majussmykkerklient.git">MajusSmykkerCLient</a></p>
                 <p><a href="https://github.com/DatamatikerTeam6/MajusSmykker.git">MajusSmykkerAPI</a></p>
+                <p><a href="https://github.com/almajosefin/arduino.git">Arduino</a></p>
                 <p>Alma Josefin Labrosse</p>
                 <p>Gruppe 6: Maja, Justin & Emre</p>
                 <p>UCL Erhvervsakademi & Professionshøskole</p>
-                <p>?eksamen?</p>
                 <p>Javascript & Embedded C</p>
                 <p>Fjerde Semester 2024</p>
                 <p>Procesvejleder: Diaa</p>
