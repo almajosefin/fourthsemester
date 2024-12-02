@@ -22,7 +22,7 @@ export default function Info() {
                 <h1>Læringsmål</h1>
                 <div className="App-row">
                     <div className="App-column">
-                        <p>JavaScript</p>
+                        <p>Webudvikling</p>
                         <p>Viden</p>
                         <ul>
                             <li>Kendskab til de anvendte teorier, metoder og praksisser inden for frontend udvikling med React og programmering med JavaScript, der er relevante for projektets omfang.</li>
@@ -67,7 +67,7 @@ export default function Info() {
                 <h1>Målsætning & Kvalitetskriterier</h1>
                 <div className="App-row">
                     <div className="App-column">
-                        <p>JavaScript</p>
+                        <p>Webudvikling</p>
                         <p>Specifikt</p>
                         <ul>
                             <li>Målet med projektet er at udvikle en webapplikation, der skal fungere som en digital ordrebog for klienten, der er guldsmed.</li>
@@ -137,10 +137,11 @@ export default function Info() {
                             <li>Aldrigmere.dk: <a href="https://www.aldrigmere.dk/materialer/hjaelpetekster/blooms-taksonomi">aldrigmere.dk/materialer/hjaelpetekster/blooms-taksonomi</a> (tilgået 30/11/2024)</li>
                             <p></p>
                         </ul>
-                        <p>JavaScript</p>
+                        <p>Webudvikling</p>
                         <ul>
                             <li>Joubran, Jad (2024): ”Learn JavaScript”, Learn JavaScript, 2024, <a href="https://learnjavascript.online/app.html?id=1435">learnjavascript.online</a> (tilgået 30/11/2024)</li>
                             <li>Rand-Hendriksen, Morten (2024): ”JavaScript Essential Training”, LinkedIn Learning, 07/06/2024, <a href="https://www.linkedin.com/learning-login/share?account=57075649&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fjavascript-essential-training%3Ftrk%3Dshare_ent_url%26shareId%3DdBa5PaXTQ6eJIbvy3Lm62Q%253D%253D">linkedin.com/learning</a> (tilgået 20/08/2024)</li>
+                            <li>Learn React(2018): “Learn React”, Scrimba, 23/01/2018, <a href="https://scrimba.com/learn-react-c0e">scrimba.com</a> (tilgået 30/11/2024)</li>
                             <li>JavaScript Mastery (2022): ” React JS Full Course”, YouTube, 04/03/2022, <a href="https://www.youtube.com/watch?v=b9eMGE7QtTk&t=790s">youtube.com</a> (tilgået 30/11/2024)</li>
                             <li>Web Dev Simplified (2022): “How To Create A Navbar In React With Routing”, YouTube, 24/05/2022, <a href="https://www.youtube.com/watch?v=SLfhMt5OUPI">youtube.com</a> (tilgået 30/11/2024)</li>
                             <li>nodejs.org: <a href="https://nodejs.org/en">nodejs.org/en</a> (tilgået 30/11/2024)</li>
