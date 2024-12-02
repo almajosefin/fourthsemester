@@ -5,6 +5,7 @@ export default function Home() {
         <div className="App">
             <header>
                 <h1>Velkommen</h1>
+                <p><a href="https://www.youtube.com/watch?v=DMAHtpleZT0">Produktvideo</a></p>
                 <p><a href="https://github.com/DatamatikerTeam6/Majussmykkerklient.git">MajusSmykkerCLient</a></p>
                 <p><a href="https://github.com/DatamatikerTeam6/MajusSmykker.git">MajusSmykkerAPI</a></p>
                 <p><a href="https://github.com/almajosefin/arduino.git">Arduino</a></p>
