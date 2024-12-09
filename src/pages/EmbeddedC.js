@@ -18,14 +18,14 @@ export default function EmbeddedC() {
     // play() method is called via refs.
     onClickPlay () {
         this.refs.VideoComp.play();
-    }
+    };
     
     render () {
         // a basic style object
         const VideoStyle = {
             backgroundColor: 'green'
         };
-    }
+    };
 
     return(
         <div className="App">
