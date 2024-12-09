@@ -2,6 +2,7 @@
   text-align: center;
   display: outside;
   flex-direction: column;
+  justify-content: center;
 }
 
 .App header {
@@ -19,7 +20,6 @@
   flex-direction: column;
   width: 80%;
   height: auto;
-  justify-content: center;
 }
 
 .App-row{
