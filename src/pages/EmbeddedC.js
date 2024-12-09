@@ -7,7 +7,7 @@ export default function EmbeddedC() {
             <header>
                 <h1>Embedded C</h1>
                 <div>
-                    <video src="https://ik.imagekit.io/ikmedia/example_video.mp4" controls autoplay muted playsInline/>
+                    <video src="https://ik.imagekit.io/ikmedia/example_video.mp4" controls autoplay muted playsInline></video>
                 </div>
             </header>
         </div>

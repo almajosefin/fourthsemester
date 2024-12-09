@@ -19,7 +19,7 @@
   flex-direction: column;
   width: 80%;
   height: auto;
-  align-self: center;
+  justify-content: center;
 }
 
 .App-row{
