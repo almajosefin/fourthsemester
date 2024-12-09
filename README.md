@@ -51,3 +51,5 @@ Kompetencer
 - Håndtere komplekse problemer i løbet af udviklings- og implementeringsprocessen, med fokus på at sende data fra mikrocontrolleren.
 - Indgå i fagligt og tværfagligt samarbejde ved flittig brug af guild, procesgruppe og kontinuerlig kommunikation med produktgruppen.
 - Identificere egne læringsforløb og strukturere egen læring i tilegnelsen af viden og opbyggelsen af færdigheder i relation til embedded systemer.
+
+https://github.com/almajosefin/fourthsemester/blob/main/src/assets/sketch7arduinvid.mp4
