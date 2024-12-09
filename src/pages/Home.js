@@ -18,6 +18,7 @@ export default function Home() {
                 <p><a href="https://github.com/DatamatikerTeam6/Majussmykkerklient.git">MajusSmykkerKLient</a></p>
                 <p><a href="https://github.com/DatamatikerTeam6/MajusSmykker.git">MajusSmykkerAPI</a></p>
                 <p><a href="https://github.com/almajosefin/arduino.git">Arduino</a></p>
+                <div><video src="https://www.youtube.com/watch?v=DMAHtpleZT0" controls autoplay muted playsInline></video></div>
             </header>
         </div>
     )
