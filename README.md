@@ -56,6 +56,9 @@ Kompetencer
 https://github.com/user-attachments/assets/3faeffce-857d-4d99-ab27-8f4b881071ee
 
 ## Kundeundersøgelse
-[https://github.com/almajosefin/fourthsemester/blob/main/src/assets/sketch7arduinvid.mp4](https://github.com/user-attachments/assets/74460c7f-45e8-40dc-8da1-a6e2d1ebe1b1)  
+[https://github.com/almajosefin/fourthsemester/blob/main/src/assets/sketch7arduinvid.mp4](https://github.com/user-attachments/assets/74460c7f-45e8-40dc-8da1-a6e2d1ebe1b1)
+
 https://github.com/user-attachments/assets/d7a3f66f-4da4-4931-8a47-d5a4309a87ac  
+
 https://github.com/user-attachments/assets/bc2ba333-c7c0-41a6-bd84-dec7323e1b17  
+
