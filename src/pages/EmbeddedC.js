@@ -8,7 +8,7 @@ export default function EmbeddedC() {
                 <h1>Embedded C</h1>
                 <div>
                     <video
-                        src="https://ik.imagekit.io/ikmedia/example_video.mp4"
+                        src="https://github.com/almajosefin/fourthsemester/blob/main/src/assets/sketch7arduinvid.mp4"
                         width='1440'
                         height='680'
                         controls
