@@ -16,7 +16,6 @@
 
 .App video {
   display: flex;
-  width:fit-content;
 }
 
 .App-row{
