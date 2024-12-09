@@ -15,6 +15,7 @@ export default function Home() {
                 <p>Gruppe 6: Maja Daniela Hansen, Justin Anthony Kapelke & Emre Altintas</p>
                 <p>Procesvejleder: Diaa Zobair Shollar</p>
                 <p>Guildvejleder: Tue Hellsten</p>
+                <p><a href="https://github.com/almajosefin/fourthsemester?tab=readme-ov-file">ReadMe</a></p>
                 <p><a href="https://github.com/DatamatikerTeam6/Majussmykkerklient.git">MajusSmykkerKLient</a></p>
                 <p><a href="https://github.com/DatamatikerTeam6/MajusSmykker.git">MajusSmykkerAPI</a></p>
                 <p><a href="https://github.com/almajosefin/arduino.git">Arduino</a></p>
