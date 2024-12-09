@@ -58,4 +58,6 @@ https://github.com/user-attachments/assets/3faeffce-857d-4d99-ab27-8f4b881071ee
 ## Kundeundersøgelse
 [https://github.com/almajosefin/fourthsemester/blob/main/src/assets/sketch7arduinvid.mp4](https://github.com/user-attachments/assets/74460c7f-45e8-40dc-8da1-a6e2d1ebe1b1)  
 
+https://github.com/user-attachments/assets/e676dfe4-52d7-427e-9f67-63016273ac10  
+
 https://github.com/user-attachments/assets/43733166-765b-4f9e-acee-3f3123d4ea55  
