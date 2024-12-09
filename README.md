@@ -1,5 +1,5 @@
 # Portefølje
-### Alma Josefin Labrosse  
+Alma Josefin Labrosse  
 Fjerde Semester 2024  
 Datamatiker Online  
 UCL Erhvervsakademi & Professionshøjskole  
@@ -18,7 +18,7 @@ MajusSmykkerKlient kode: https://github.com/DatamatikerTeam6/Majussmykkerklient.
 MajusSmykkerAPI kode: https://github.com/DatamatikerTeam6/MajusSmykker.git  
 Arduino kode: https://github.com/almajosefin/arduino.git  
 
-### Læringsmål for Webudvikling (React & JavaScript) – 15 ECTS
+## Læringsmål for Webudvikling (React & JavaScript) – 15 ECTS
 
 Viden
 - Kendskab til de anvendte teorier, metoder og praksisser inden for frontend udvikling med React og programmering med JavaScript, der er relevante for projektets omfang.
@@ -35,7 +35,7 @@ Kompetencer
 - Indgå i fagligt og tværfagligt samarbejde om udviklingen og implementeringen af en webapplikation ved at kommunikere med guild, procesgruppe og produktgruppe.
 - Identificere egne læringsforløb og strukturere egen læring i tilegnelsen af viden og opbyggelsen af færdigheder i relation til webudvikling med React og JavaScript.
 
-### Læringsmål for Embedded C (Arduino & C) – 15 ECTS
+## Læringsmål for Embedded C (Arduino & C) – 15 ECTS
 
 Viden
 - Kendskab til de anvendte teorier, metoder og praksisser, som findes i forbindelse med udviklingen af embedded systemer, der programmeres i C.
