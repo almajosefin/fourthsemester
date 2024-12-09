@@ -7,7 +7,7 @@ export default function EmbeddedC() {
             <header>
                 <h1>Embedded C</h1>
                 <div>
-                    <video src="https://github.com/almajosefin/fourthsemester/blob/main/src/assets/sketch7arduinvid.mp4" controls autoplay muted playsInline></video>
+                    <video src="https://github.com/user-attachments/assets/74460c7f-45e8-40dc-8da1-a6e2d1ebe1b1" controls autoplay muted playsInline></video>
                 </div>
             </header>
         </div>
