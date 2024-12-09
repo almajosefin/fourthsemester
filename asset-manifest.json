@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/fourthsemester/static/css/main.5bedcbc8.css",
-    "main.js": "/fourthsemester/static/js/main.22696286.js",
+    "main.js": "/fourthsemester/static/js/main.c0e59ef1.js",
     "index.html": "/fourthsemester/index.html",
     "main.5bedcbc8.css.map": "/fourthsemester/static/css/main.5bedcbc8.css.map",
-    "main.22696286.js.map": "/fourthsemester/static/js/main.22696286.js.map"
+    "main.c0e59ef1.js.map": "/fourthsemester/static/js/main.c0e59ef1.js.map"
   },
   "entrypoints": [
     "static/css/main.5bedcbc8.css",
-    "static/js/main.22696286.js"
+    "static/js/main.c0e59ef1.js"
   ]
 }
