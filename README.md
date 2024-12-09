@@ -52,4 +52,4 @@ Kompetencer
 - Indgå i fagligt og tværfagligt samarbejde ved flittig brug af guild, procesgruppe og kontinuerlig kommunikation med produktgruppen.
 - Identificere egne læringsforløb og strukturere egen læring i tilegnelsen af viden og opbyggelsen af færdigheder i relation til embedded systemer.
 
-https://github.com/almajosefin/fourthsemester/blob/main/src/assets/sketch7arduinvid.mp4
+[https://github.com/almajosefin/fourthsemester/blob/main/src/assets/sketch7arduinvid.mp4](https://github.com/user-attachments/assets/74460c7f-45e8-40dc-8da1-a6e2d1ebe1b1)
