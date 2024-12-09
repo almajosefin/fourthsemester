@@ -14,11 +14,6 @@
   padding-top: 6rem;
 }
 
-.App video {
-  display: flex;
-  width: 80%;
-}
-
 .App-row{
   list-style: none;
   display: flex;
