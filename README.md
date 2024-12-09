@@ -7,16 +7,16 @@ UCL Erhvervsakademi & Professionshøjskole
 Webudvikling: 15 ECTS  
 Embedded C: 15 ECTS  
 
-Gruppe 6: Maja Daniela Hansen, Justin Anthony Kapelke & Emre Altintas
-Procesvejleder: Diaa Zobair Shollar
-Guildvejleder: Tue Hellstern
+Gruppe 6: Maja Daniela Hansen, Justin Anthony Kapelke & Emre Altintas  
+Procesvejleder: Diaa Zobair Shollar  
+Guildvejleder: Tue Hellstern  
 
-Video: https://www.youtube.com/watch?v=DMAHtpleZT0
-Portefølje: https://almajosefin.github.io/fourthsemester/
-Portefølje kode: https://github.com/almajosefin/fourthsemester.git
-MajusSmykkerKlient kode: https://github.com/DatamatikerTeam6/Majussmykkerklient.git
-MajusSmykkerAPI kode: https://github.com/DatamatikerTeam6/MajusSmykker.git
-Arduino kode: https://github.com/almajosefin/arduino.git
+Video: https://www.youtube.com/watch?v=DMAHtpleZT0  
+Portefølje: https://almajosefin.github.io/fourthsemester/  
+Portefølje kode: https://github.com/almajosefin/fourthsemester.git  
+MajusSmykkerKlient kode: https://github.com/DatamatikerTeam6/Majussmykkerklient.git  
+MajusSmykkerAPI kode: https://github.com/DatamatikerTeam6/MajusSmykker.git  
+Arduino kode: https://github.com/almajosefin/arduino.git  
 
 ## Læringsmål for Webudvikling (React & JavaScript) – 15 ECTS
 
