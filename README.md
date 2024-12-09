@@ -1,11 +1,11 @@
 # Portefølje
 Alma Josefin Labrosse  
-Fjerde Semester 2024
-Datamatiker Online
-UCL Erhvervsakademi & Professionshøjskole
+Fjerde Semester 2024  
+Datamatiker Online  
+UCL Erhvervsakademi & Professionshøjskole  
 
-Webudvikling: 15 ECTS
-Embedded C: 15 ECTS
+Webudvikling: 15 ECTS  
+Embedded C: 15 ECTS  
 
 Gruppe 6: Maja Daniela Hansen, Justin Anthony Kapelke & Emre Altintas
 Procesvejleder: Diaa Zobair Shollar
