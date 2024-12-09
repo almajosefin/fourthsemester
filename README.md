@@ -53,7 +53,9 @@ Kompetencer
 - Identificere egne læringsforløb og strukturere egen læring i tilegnelsen af viden og opbyggelsen af færdigheder i relation til embedded systemer.
 
 ## Digital Ordrebog
-https://www.youtube.com/watch?v=DMAHtpleZT0
+https://www.youtube.com/watch?v=DMAHtpleZT0  
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/DMAHtpleZT0/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_DMAHtpleZT0)  
 
 ## Kundeundersøgelse
 [https://github.com/almajosefin/fourthsemester/blob/main/src/assets/sketch7arduinvid.mp4](https://github.com/user-attachments/assets/74460c7f-45e8-40dc-8da1-a6e2d1ebe1b1)  
