@@ -6,7 +6,15 @@ export default function EmbeddedC() {
         <div className="App">
             <header>
                 <h1>Embedded C</h1>
-                <ReactVideo src="https://ik.imagekit.io/ikmedia/example_video.mp4" type="video/mp4"/>
+                <ReactVideo
+                src="https://ik.imagekit.io/ikmedia/example_video.mp4"
+                type="video/mp4"
+                width='1440'
+                height='680'
+                controls
+                autoPlay
+                muted
+                playsInline/>
             </header>
         </div>
     )
