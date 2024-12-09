@@ -1,5 +1,5 @@
 import React from 'react';
-import './assets/sketch7arduinvid.mp4';
+import ReactVideo from 'react.video';
 
 export default function EmbeddedC() {
     return(
