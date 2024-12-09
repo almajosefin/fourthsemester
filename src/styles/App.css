@@ -2,7 +2,7 @@
   text-align: center;
   display: outside;
   flex-direction: column;
-  justify-content: center;
+  align-content: center;
 }
 
 .App header {
@@ -16,8 +16,6 @@
 }
 
 .App video {
-  display: flex;
-  flex-direction: column;
   width: 80%;
   height: auto;
 }
