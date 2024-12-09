@@ -19,7 +19,7 @@ export default function Home() {
                 <p><a href="https://github.com/DatamatikerTeam6/Majussmykkerklient.git">MajusSmykkerKLient</a></p>
                 <p><a href="https://github.com/DatamatikerTeam6/MajusSmykker.git">MajusSmykkerAPI</a></p>
                 <p><a href="https://github.com/almajosefin/arduino.git">Arduino</a></p>
-                <div><YouTube videoId="DMAHtpleZT0" opts={opts} onReady={onPlayerReady}/></div>
+                <div><YouTube videoId="DMAHtpleZT0"/></div>
             </header>
         </div>
     )
