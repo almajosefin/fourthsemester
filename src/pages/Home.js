@@ -21,7 +21,7 @@ export default function Home() {
                     <div className="App-column">
                         <YouTube videoId="DMAHtpleZT0"/>
                         <p><a href="https://github.com/almajosefin/fourthsemester?tab=readme-ov-file">ReadMe</a></p>
-                        <p><a href="https://github.com/DatamatikerTeam6/Majussmykkerklient.git">MajusSmykkerKLient</a></p>
+                        <p><a href="https://github.com/DatamatikerTeam6/Majussmykkerklient.git">MajusSmykkerKlient</a></p>
                         <p><a href="https://github.com/DatamatikerTeam6/MajusSmykker.git">MajusSmykkerAPI</a></p>
                         <p><a href="https://github.com/almajosefin/arduino.git">Arduino</a></p>
                     </div>
