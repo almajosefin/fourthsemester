@@ -175,6 +175,7 @@ export default function Log() {
                         <p>Uge 43</p>
                         <p>Mål</p>
                         <ul>
+                            <li>Forstå og anvende Document Object Model i vores frontend.</li>
                             <li>Fortsætte de første eksperimenter før opstarten af kundeundersøgelsesprojektet, som det er  defineret i målsætningen.</li>
                         </ul>
                         <p>Begrebsdannelse</p>
@@ -185,15 +186,18 @@ export default function Log() {
                         <p>Aktiviteter</p>
                         <ul>
                             <li>Møde med Procesgruppe 5.</li>
+                            <li>Digital Ordrebog: Importere react-router-dom komponenter til navigering mellem sider i ordrebogen.</li>
                             <li>Kundeundersøgelse: processing knap udskriver tekst i processing consol.</li>
                         </ul>
                         <p>Erfaring</p>
                         <ul>
+                            <li>ReactDOM fandtes allerede ved oprettelsen af React applikationen, men nu har jeg endelig en nogenlunde forståelse for dens formål.</li>
                             <li>Tegne en knap i processing, og få den til at skrive en værdi ud til konsollen, når man trykker på den. </li>
                         </ul>
                         <p>Uge 44</p>
                         <p>Mål</p>
                         <ul>
+                            <li>Implementere en kundeoversigt i den digitale ordrebog, med en søgefunktion.</li>
                             <li>Opstart af kundeundersøgelsesprojektet, som det er defineret i målsætningen.</li>
                         </ul>
                         <p>Begrebsdannelse</p>
@@ -205,10 +209,12 @@ export default function Log() {
                             <li>Guildmøde med Webudvikling.</li>
                             <li>Guildmøde med Embedded C.</li>
                             <li>Produktvejledning.</li>
+                            <li>Digital Ordebog: bruge fetch til at tilgå API'en, der returnerer en liste med kunder, der opfylder søgekriterierne.</li>
                             <li>Kundeundersøgelse: arduino touch display knap udskriver værdi i processing consol via serialport.</li>
                         </ul>
                         <p>Refleksion</p>
                         <ul>
+                            <li>React er virkelig brugervenligt og effektivt til udviklingen af en dynamisk brugergrænseflade.</li>
                             <li>Det er godt, at have en at sparre med, når meget af det yderligere Arduino materiale ikke virker super gennemskueligt for en begynder.</li>
                         </ul>
                         <p>Uge 45</p>
@@ -232,6 +238,7 @@ export default function Log() {
                         <p>Uge 46</p>
                         <p>Mål</p>
                         <ul>
+                            <li>Implentere fuld CRUD funktionalitet for kunde klassen i webapplikationen.</li>
                             <li>Få min Arduino til at udskrive et json object, hver gang man trykker på en knap.</li>
                         </ul>
                         <p>Aktiviteter</p>
@@ -239,15 +246,18 @@ export default function Log() {
                             <li>Guildmøde med Webudvikling.</li>
                             <li>Guildmøde med Embedded C.</li>
                             <li>Produktvejledning.</li>
+                            <li>Digital Ordrebog: implementere fuld CRUD funktionalitet.</li>
                             <li>Kundeundersøgelse: udskriv json object.</li>
                         </ul>
                         <p>Erfaring</p>
                         <ul>
+                            <li>Guldsmeden kan nu oprette, læse, redigere og slette en kunde i den digitale ordrebog.</li>
                             <li>Jeg har fået min Arduino til at udskrive et json object, hver gang man trykker på en knap.</li>
                         </ul>
                         <p>Refleksioner</p>
                         <ul>
-                            <li>Næste gang, vil jeg prøve at få det til at virke, uden at bruge tid på, at prøve at forbinde til WiFi først.</li>
+                            <li>At få create funktionen til at fungere gennem alle lagene først, har gjort processen lettere for implementeringen af de resterende funktioner.</li>
+                            <li>Næste gang, vil jeg prøve at få Arduino til at virke, uden at bruge tid på, at prøve at forbinde til WiFi først.</li>
                         </ul>
                         <p>Uge 47</p>
                         <p>Mål</p>
@@ -265,6 +275,12 @@ export default function Log() {
                         <p>Refleksion</p>
                         <ul>
                             <li>Jeg har fundet ud af, det ikke er så let at tilgå vores API, efter der er implementeret IT-sikkerheds tiltag.</li>
+                        </ul>
+                        <p>Uge 48</p>
+                        <p>Mål</p>
+                        <ul>
+                            <li>Målet for ugen er at lave de sidste rettelser af produktets design og kode, for at sikre, at brugergrænsefladen er let for øjet, at funktionerne virker, og koden er læsbar.</li>
+                            <li>Jeg skal også lave en produktvideo og et portefølje, der skal afleveres sammen med produktet.</li>
                         </ul>
                     </div>
                 </div>
