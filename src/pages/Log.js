@@ -153,6 +153,7 @@ export default function Log() {
                         <p>Uge 41</p>
                         <p>Mål</p>
                         <ul>
+                            <li>Gøre det muligt for guldsmeden at oprette en kunde i ordrebogen.</li>
                             <li>Påbegynde de første eksperimenter før opstarten af kundeundersøgelsesprojektet, som det er defineret i målsætningen.</li>
                         </ul>
                         <p>Begrebsdannelse</p>
@@ -166,10 +167,12 @@ export default function Log() {
                             <li>Guildmøde med Webudvikling.</li>
                             <li>Guildmøde med Embedded C.</li>
                             <li>Produktvejledning.</li>
+                            <li>Digital Ordrebog: implementere opret funktion for kunde klasse.</li>
                             <li>Kundeundersøgelse: arduino knap udskriver værdi i arduino consol.</li>
                         </ul>
                         <p>Erfaring</p>
                         <ul>
+                            <li>Det er muligt at oprette kunder via brugergrænsefladen, og der er tilføjet eksempel kunder.</li>
                             <li>Jeg har sammensat en fysisk Arduino knap, og fået den til at udskrive en værdi til konsollen, når man trykker på den.</li>
                         </ul>
                         <p>Uge 43</p>
