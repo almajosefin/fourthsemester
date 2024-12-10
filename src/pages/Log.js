@@ -198,7 +198,7 @@ export default function Log() {
                     <ul>
                         <li>Møde med Procesgruppe 5.</li>
                         <li>Digital Ordrebog: Importere react-router-dom komponenter til navigering mellem sider i ordrebogen.</li>
-                        <li>Kundeundersøgelse: processing knap udskriver tekst i processing consol.</li>
+                        <li>Ekspreiment: processing knap udskriver tekst i processing consol.</li>
                     </ul>
                     <p>Erfaring</p>
                     <ul>
@@ -277,18 +277,22 @@ export default function Log() {
                 <Accordion title={<span style={{ color: 'white' }}>Uge 47</span>}>
                     <p>Mål</p>
                     <ul>
+                        <li>Gøre det muligt for guldsmeden at oprette en kunde samtidig med at oprette en ordre.</li>
                         <li>Få min Arduino til at poste data til webapplikationen.</li>
                     </ul>
                     <p>Aktiviteter</p>
                     <ul>
+                        <li>Digital Ordrebog: implementering af opret kunde og ordre funktion.</li>
                         <li>Kundeundersøgelse: forbind til urelateret server og udfør GET.</li>
                     </ul>
                     <p>Erfaring</p>
                     <ul>
+                        <li>Opret kunde skal i baggrunden udføres først, straks efterfulgt af opret ordre.</li>
                         <li>Jeg har lært at få min Arduino til at søge på google for mig.</li>
                     </ul>
                     <p>Refleksion</p>
                     <ul>
+                        <li>Det er muligt at skabe illusionen om funktioner, der kører samtidig.</li>
                         <li>Jeg har fundet ud af, det ikke er så let at tilgå vores API, efter der er implementeret IT-sikkerheds tiltag.</li>
                     </ul>
                 </Accordion>
