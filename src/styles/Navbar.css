@@ -1,5 +1,5 @@
 .Navbar {
-    background-color: #464c58;
+    background-color:#080808;
     position: fixed;
     display: flex;
     height: min-content;
@@ -49,9 +49,9 @@
 }
 
 .Navbar li:hover {
-    background-color: #282c34;
+    background-color: #121212;
 }
 
 .Navbar li.active {
-    background-color: #282c34;
+    background-color: #121212;
 }

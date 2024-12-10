@@ -2,6 +2,7 @@ import React from "react";
 import { Route, Routes } from "react-router-dom";
 import './styles/App.css';
 import './styles/Navbar.css';
+import './styles/Accordion.css';
 import Navbar from './Navbar'
 import Home from './pages/Home';
 import Info from './pages/Info';

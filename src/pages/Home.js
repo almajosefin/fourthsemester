@@ -9,7 +9,7 @@ export default function Home() {
                 <p>Alma Josefin Labrosse</p>
                 <p>Fjerde Semester 2024</p>
                 <p>Datamatiker Online</p>
-                <p>UCL Erhvervsakademi & Professionshøskole</p>
+                <p>UCL Erhvervsakademi & Professionshøjskole</p>
                 <p>Webudvikling (React & JavaScript): 15 ECTS</p>
                 <p>Embedded C (Arduino & C): 15 ECTS</p>
                 <p>Gruppe 6: Maja Daniela Hansen, Justin Anthony Kapelke & Emre Altintas</p>
